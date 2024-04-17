@@ -1,4 +1,8 @@
-# Checker-2
+# Checker
+
+<div align="center">
+    <img src="img/checker.JPG" alt="Tic Tac Toe App" width="400">
+</div>
 
 ## App Description:
 
